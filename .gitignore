@@ -1,8 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 #Se deberia evitar subir
-# .env
-# src/environments/environments.ts
+.env
+src/environments/environment.ts
 
 # Compiled output
 /dist

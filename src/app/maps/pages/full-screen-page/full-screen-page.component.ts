@@ -2,7 +2,7 @@ import { Component, AfterViewInit } from '@angular/core';
 
 import * as mapboxgl from 'mapbox-gl';
 
-(mapboxgl as any).accessToken = 'pk.eyJ1IjoiamF2dHJvbmljIiwiYSI6ImNsbHloaDRuZjFreGYzaW85cTUzbXM1Z3EifQ.v--w0RJ4Eah7U0jGJboXsA';
+(mapboxgl as any).accessToken = 'pk.eyJ1IjoiamF2dHJvbmljIiwiYSI6ImNsbTJpZ2V5azBrMGozbHI2azhrNm9kZGcifQ.SBm30crHR8pfgviYhAsmbw';
 
 @Component({
   templateUrl: './full-screen-page.component.html',
